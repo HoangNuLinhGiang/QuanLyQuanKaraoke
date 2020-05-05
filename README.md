@@ -1,0 +1,2 @@
+# QuanLyQuanKaraoke
+giangtest
